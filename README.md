@@ -38,7 +38,7 @@ For support or contributions, please contact:
 
 **Email**: biplab.cse.85@gmail.com
 
-GitHub: [@aditya](https://github.com/biplab85/)
+GitHub: [@Biplab](https://github.com/biplab85/)
 
 
 
