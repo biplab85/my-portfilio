@@ -2,7 +2,7 @@
 /**
  * The template for displaying the footer in PWA.
  *
- * @package Neve
+ * @package BD template
  * @since   2.4.3
  */
 

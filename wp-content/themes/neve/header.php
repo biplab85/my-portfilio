@@ -65,7 +65,7 @@ do_action( 'neve_html_start_before' );
 do_action( 'neve_body_start_after' );
 ?>
 <?php wp_body_open(); ?>
-<div class="wrapper">
+<div class="wrapper fdsfsfsfs">
 	<?php
 	/**
 	 * Executes actions before the header tag is opened.

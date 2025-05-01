@@ -11,7 +11,7 @@ get_header();
 
 $context = class_exists( 'WooCommerce', false ) && ( is_cart() || is_checkout() || is_account_page() ) ? 'woo-page' : 'single-page';
 ?>
-<div class="container-fluid single-page-container">
+<div class="container-fluid single-page-container p-0">
 	<div class="row">
 		<?php do_action( 'neve_do_sidebar', $context, 'left' ); ?>
 		<div class="nv-single-page-wrap col">

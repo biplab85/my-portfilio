@@ -17,3 +17,108 @@ WordPress Available:  yes
 Requires License:     no
 Tags: blog, custom-logo, e-commerce, rtl-language-support, grid-layout, one-column, two-columns, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, accessibility-ready, wide-blocks, block-styles, footer-widgets, portfolio, left-sidebar, right-sidebar
 */
+.wrapper {
+  background-color: #0b0f22 !important;
+}
+
+.header .hide-on-mobile.hide-on-tablet .header-main-inner{
+	background-color: #0b0f22 !important;
+}
+.primary-menu-ul.nav-ul.menu-desktop{
+	margin:0px
+}
+.primary-menu-ul.nav-ul.menu-desktop li a{
+	text-decoration:none
+}
+
+.w-48{
+	width:48% !important
+}
+.mainContactForm .field-wrapper input,
+.mainContactForm .field-wrapper textarea,
+.mainContactForm .field-wrapper span{
+	display:block;
+	width:100%;
+}
+.mainContactForm .field-wrapper input,
+.mainContactForm .field-wrapper textarea{
+	border: 1px solid #edebeb;
+    border-radius: 8px;
+    background-color: #f5f5f5;
+}
+.mainContactForm .field-wrapper textarea{
+	resize:none;
+	height:150px;
+}
+.mainContactForm .formSubmitBtn input[type="submit"] {
+    background-color: #FFD500;
+    border-radius: 20px;
+    height: 38px;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: normal;
+    font-size: 14px;
+    color: #000;
+}
+
+.gradiant-title{
+	background: -webkit-linear-gradient(0deg, #ffb80c 0, #fbbbc3 52%, #4691f9 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	mix-blend-mode: inherit !important;
+}
+
+.bd-footer-container{
+	border-top: 1px solid #21253b;
+	padding: 80px 0 !important;
+}
+.bd-footer-container .footerLogo{
+	margin-bottom:35px;
+}
+
+.bd-footer-container .footerMenuContainer h5 {
+	font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.footer-menu{
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #14192f;
+	padding: 20px;
+	list-style: none;
+	margin: 0;
+	border-radius: 10px;
+}
+
+.footer-menu li{
+	width: 50%;
+	box-sizing: border-box;
+	padding: 5px 0;
+}
+
+.footer-menu li a{
+	width: 50%;
+	box-sizing: border-box;
+	padding: 5px 0;
+	text-decoration:none;
+}
+.policySection li{
+	margin-right:15px;
+}
+.policySection li a{
+	width: 50%;
+	box-sizing: border-box;
+	padding: 5px 0;
+	text-decoration:none;
+	color:#FFF;
+}
+.policyContainer{
+	font-size:13px;
+}
+
+
+
+
